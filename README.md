@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashsurve2001&hide=contribs,prs)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsurve2001&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)              
-<iframe src="https://hackerrank-badge.herokuapp.com/suyashsurve2001?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 
 
 
