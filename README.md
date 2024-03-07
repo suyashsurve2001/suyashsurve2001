@@ -1,5 +1,5 @@
 # Suyash Surve
- My name is Suyash Surve, and I'm a passionate data analyst based in Thane 🌆. I love using data 📊 to solve problems and make informed decisions. I'm still a fresher in the field, but I have experience using Python 🐍, MySQL 🗄️, Power BI 📊, Excel 📝, and Streamlit 🌟, and I'm always eager to learn new skills and technologies to enhance my data analysis capabilities. 
+ My name is Suyash Surve, and I'm a passionate data analyst based in Mumbai 🌆. I love using data 📊 to solve problems and make informed decisions. I'm still a fresher in the field, but I have experience using Python 🐍, MySQL 🗄️, Power BI 📊, Excel 📝, and Streamlit 🌟, and I'm always eager to learn new skills and technologies to enhance my data analysis capabilities. 
   
  My GitHub profile is where I showcase some of my best work, including data analysis projects and contributions to open source projects. I'm always looking for new opportunities to collaborate with other developers and learn from their expertise. 😊👍
 
