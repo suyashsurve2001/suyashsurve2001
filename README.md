@@ -1,24 +1,16 @@
-
-![WhatsApp Image 2024-03-17 at 17 07 59_6977216d](https://github.com/suyashsurve2001/suyashsurve2001/assets/120365211/e0f879ec-65ee-41d3-b661-dc62e38ac734)
-
-
-
-# Suyash Surve
- My name is Suyash Surve, and I'm a passionate data analyst based in Mumbai 🌆. I love using data 📊 to solve problems and make informed decisions. I'm still a fresher in the field, but I have experience using Python 🐍, MySQL 🗄️, Power BI 📊, Excel 📝, and Streamlit 🌟, and I'm always eager to learn new skills and technologies to enhance my data analysis capabilities. 
-  
- My GitHub profile is where I showcase some of my best work, including data analysis projects and contributions to open source projects. I'm always looking for new opportunities to collaborate with other developers and learn from their expertise. 😊👍
-
-## Skill and Experience
-* 🐍 Python
-* 🗄️ MySQL
-* 📊 Power BI
-* 📝 Excel
-* 🌟 Streamlit
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashsurve2001&hide=contribs,prs)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsurve2001&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)              
+# 💫 About Me:
+My name is Suyash Surve, and I'm a passionate data analyst based in Mumbai. I love using data to solve problems and make informed decisions. I'm still a fresher in the field, but I have experience using Python, MySQL, SQL Server Management Studio, Excel, and Tableau, and I'm always eager to learn new skills and technologies to enhance my data analysis capabilities.
 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suyashsurve2001&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=suyashsurve2001&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsurve2001&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=suyashsurve2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
