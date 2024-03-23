@@ -1,3 +1,6 @@
+
+![heiman software labs](https://github.com/suyashsurve2001/suyashsurve2001/assets/120365211/13876ee1-361c-4b73-876c-0cb4293b0446)
+
 # 💫 About Me:
 My name is Suyash Surve, and I'm a passionate data analyst based in Mumbai. I love using data to solve problems and make informed decisions. I'm still a fresher in the field, but I have experience using Python, MySQL, SQL Server Management Studio, Excel, and Tableau, and I'm always eager to learn new skills and technologies to enhance my data analysis capabilities.
 
